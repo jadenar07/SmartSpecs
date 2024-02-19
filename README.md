@@ -1,4 +1,4 @@
-<h1>SmartSpecs</h1>
+<h1>SmartSpecs 👓</h1>
 
 <h2>Description</h2>
 Spearheaded the development of smart glasses aimed at aiding children with learning by efficiently identifying shapes and colors using object detection technology. Leveraged Python programming language, Raspberry Pi 4, and Computer Aided Designs through Fusion 360 to construct the glasses, allowing for real-time video processing and color and shape recognition. Successfully implemented text-to-speech functionality and integrated object detection algorithms, achieving a functioning prototype with the ability to assist users in shape and color identification.
