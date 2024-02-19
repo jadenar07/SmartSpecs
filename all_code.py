@@ -1,11 +1,3 @@
-"""Source: Murtaza's Workshop -Robotics and AI
-Real time Shape Detection using Contours [9] | OpenCV Python Tutorials for Beginners 2020
-
-Source: Pysource - Simple Color recognition with Opencv and Python
-
-"""
-
-
 import cv2
 import numpy as np
 import pyttsx3
